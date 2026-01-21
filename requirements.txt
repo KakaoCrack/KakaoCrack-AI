@@ -1,7 +1,9 @@
 fastapi
 uvicorn
 langchain
-langchain-openai
 supabase
 python-dotenv
 pydantic
+psycopg2-binary
+langchain-postgres
+langchain-openai
